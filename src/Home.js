@@ -57,7 +57,7 @@ export const Home=()=> {
     <div className="row text-center">
       <div className="col-md-4">
       
-        <h4 className="my-3">E-Commerce</h4>
+        <h4 className="my-3">High Quality</h4>
         <p className="text-muted">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
           maxime quam architecto quo inventore harum ex magni, dicta impedit.
@@ -65,7 +65,7 @@ export const Home=()=> {
       </div>
       <div className="col-md-4">
        
-        <h4 className="my-3">Responsive Design</h4>
+        <h4 className="my-3">Super Comfortable</h4>
         <p className="text-muted">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
           maxime quam architecto quo inventore harum ex magni, dicta impedit.
@@ -73,7 +73,7 @@ export const Home=()=> {
       </div>
       <div className="col-md-4">
       
-        <h4 className="my-3">Web Security</h4>
+        <h4 className="my-3">Very Stylish</h4>
         <p className="text-muted">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
           maxime quam architecto quo inventore harum ex magni, dicta impedit.
