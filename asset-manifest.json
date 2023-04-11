@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/insaid/static/css/main.6d75c23f.css",
-    "main.js": "/insaid/static/js/main.e902aa72.js",
-    "static/media/luis-felipe-lins-LG88A2XgIXY-unsplash.jpg": "/insaid/static/media/luis-felipe-lins-LG88A2XgIXY-unsplash.d56681dddcb72559fde6.jpg",
-    "static/media/domino-164_6wVEHfI-unsplash.jpg": "/insaid/static/media/domino-164_6wVEHfI-unsplash.3a6f4d810fb5ec6710ec.jpg",
-    "static/media/usama-akram-kP6knT7tjn4-unsplash.jpg": "/insaid/static/media/usama-akram-kP6knT7tjn4-unsplash.79cd501c259922ec38b2.jpg",
-    "static/media/Screenshot 2023-04-11 113535.png": "/insaid/static/media/Screenshot 2023-04-11 113535.812b5c642a98472a1899.png",
-    "index.html": "/insaid/index.html",
-    "main.6d75c23f.css.map": "/insaid/static/css/main.6d75c23f.css.map",
-    "main.e902aa72.js.map": "/insaid/static/js/main.e902aa72.js.map"
+    "main.css": "/static/css/main.6d75c23f.css",
+    "main.js": "/static/js/main.75a688ab.js",
+    "static/media/luis-felipe-lins-LG88A2XgIXY-unsplash.jpg": "/static/media/luis-felipe-lins-LG88A2XgIXY-unsplash.d56681dddcb72559fde6.jpg",
+    "static/media/domino-164_6wVEHfI-unsplash.jpg": "/static/media/domino-164_6wVEHfI-unsplash.3a6f4d810fb5ec6710ec.jpg",
+    "static/media/usama-akram-kP6knT7tjn4-unsplash.jpg": "/static/media/usama-akram-kP6knT7tjn4-unsplash.79cd501c259922ec38b2.jpg",
+    "static/media/Screenshot 2023-04-11 113535.png": "/static/media/Screenshot 2023-04-11 113535.812b5c642a98472a1899.png",
+    "index.html": "/index.html",
+    "main.6d75c23f.css.map": "/static/css/main.6d75c23f.css.map",
+    "main.75a688ab.js.map": "/static/js/main.75a688ab.js.map"
   },
   "entrypoints": [
     "static/css/main.6d75c23f.css",
-    "static/js/main.e902aa72.js"
+    "static/js/main.75a688ab.js"
   ]
 }
